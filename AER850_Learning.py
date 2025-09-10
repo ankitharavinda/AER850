@@ -1,5 +1,5 @@
 import pandas as pd
-data = pd.read_csv("data/housing.csv")
+data = pd.read_csv("housing.csv")
 
 print(data.head())
 print(data.columns)
